@@ -1,9 +1,53 @@
 # Gabriel Watson :computer:
 ![Gabriel Watson (1)](https://user-images.githubusercontent.com/97103827/235610221-073d5278-928f-4b70-ae49-a7c82ea4e235.png)
 
-Hi 👋, I'm Gabriel and I have for the majority of my life been a tech enthusiast with a big intrest in analytics and statistics. Currently I'm doing a Data Scientist education at EC Utbildning at in Gothenburg, Sweden. 
+## Data Platform Specialist at Pagesplit Solutions AB | Data Science Graduate
 
-This Github is meant both as a place for people to see what I have been working during my education and also various passion projects that I will be uploading on github.
+🌍 Location: Gothenburg, Vastra Gotaland County, Sweden
+
+🎓 Education: Diploma of Higher Vocational Education, Data Science at EC Utbildning
+
+📅 Experience: 1 year and 2 months at Pagesplit Solutions AB
+
+📆 Joined Pagesplit Solutions AB: October 2022
+
+About Me
+Hello! I'm Gabriel Watson, a Data Platform Specialist with a passion for turning data into actionable insights. Currently, I'm leveraging my skills at Pagesplit Solutions AB to optimize SQL queries, design efficient databases, and contribute to successful Azure cloud migrations.
+
+## Education
+🎓 Data Science Graduate: Diploma of Higher Vocational Education, Data Science (Aug 2021 - May 2023) from EC Utbildning.
+
+Completed a comprehensive two-year data science program covering:
+
+Business Analytics
+SQL & Database Management
+R Programming & Statistics
+Python Programming
+Predictive Analytics
+Visual Data Analysis
+Self Service BI
+Internship I & II
+Thesis Paper/Work
+
+Acquired skills in:
+Data Science
+Forecasting
+Databases
+SQL
+Statistical Data Analysis
+Data Warehousing
+Data Analysis
+Data Modeling
+Python (Programming Language)
+
+## Professional Highlights
+SQL Optimization Maven: Proficient in SQL query optimization to ensure peak performance.
+
+ETL Architect: Designed and implemented ETL pipelines for accurate and timely data delivery.
+
+Azure Cloud Expert: Collaborating with cross-functional teams, I plan, execute, and optimize Azure cloud migrations.
+
+Client Success Partner: Worked closely with diverse clients, understanding their specific requirements and challenges.
 
 # 👜 Projects 
 | Repository | Description | Course/Project |
