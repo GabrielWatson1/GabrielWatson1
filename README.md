@@ -1,5 +1,5 @@
 # Gabriel Watson :computer:
-![nexer_banner](https://github.com/GabrielWatson1/GabrielWatson1/assets/97103827/dce2da5a-c837-49c0-bb45-9b97f17a981d)
+![Uploading Gabriel Watson sdsd sdsd sdsdsd sds.png…]()
 
 
 ## Data Platform Specialist at Pagesplit Solutions AB | Data Science Graduate
