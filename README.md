@@ -2,11 +2,13 @@
 ![Screenshot 2024-03-19 130537](https://github.com/GabrielWatson1/GabrielWatson1/assets/97103827/4d4350a0-3e20-4778-bff7-6e100056b0a2)
 
 
-## Data Platform Specialist at Pagesplit Solutions AB | Data Science Graduate
+## Analytics Consultant at Nexer Insight | Data Science Graduate
 
-🌍 Location: Gothenburg, Vastra Gotaland County, Sweden
+🌍 Location: Gothenburg, Västra Götaland, Sweden
 
 🎓 Education: Diploma of Higher Vocational Education, Data Science at EC Utbildning
+
+📜 Certifications: Databricks Certified Data Engineer Associate March 2024 - March 2026
 
 📅 Experience: 2+ years
 
