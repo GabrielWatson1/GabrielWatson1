@@ -8,12 +8,16 @@
 
 🎓 Education: Diploma of Higher Vocational Education, Data Science at EC Utbildning
 
-📅 Experience: 1 year and 2 months at Pagesplit Solutions AB
+📅 Experience: 2+ years
 
-📆 Joined Pagesplit Solutions AB: October 2022
+📆 Joined Nexer Insight: March 2024
 
-About Me
-Hello! I'm Gabriel Watson, a Data Platform Specialist with a passion for turning data into actionable insights. Currently, I'm leveraging my skills at Pagesplit Solutions AB to optimize SQL queries, design efficient databases, and contribute to successful Azure cloud migrations.
+About Me:
+
+Hello! 
+I'm Gabriel Watson, a Analytics Consultant with a passion for turning data into actionable insights. 
+I have expertise in processing data, managing SQL databases, implementing data warehousing solutions, and leveraging Power BI for insightful analytics. My experience includes translating intricate data into actionable insights and reports, empowering organizations to make informed, data-driven decisions. Proficient in SQL, I excel in data modeling and applying ETL techniques using SSIS. 
+Beyond my technical skills, I have a strong foundation in data science, which helps me in my ability to bridge the gap between IT and business needs. I thrive in collaborative, cross-functional teams, where I excel at transforming business requirements into effective technical solutions. I'm  passionate about analytical processes and driving efficient business initiatives.
 
 ## Education
 🎓 Data Science Graduate: Diploma of Higher Vocational Education, Data Science (Aug 2021 - May 2023) from EC Utbildning.
@@ -39,16 +43,7 @@ Statistical Data Analysis
 Data Warehousing
 Data Analysis
 Data Modeling
-Python (Programming Language)
-
-## Professional Highlights
-SQL Optimization Maven: Proficient in SQL query optimization to ensure peak performance.
-
-ETL Architect: Designed and implemented ETL pipelines for accurate and timely data delivery.
-
-Azure Cloud Expert: Collaborating with cross-functional teams, I plan, execute, and optimize Azure cloud migrations.
-
-Client Success Partner: Worked closely with diverse clients, understanding their specific requirements and challenges.
+Python
 
 # 👜 Projects 
 | Repository | Description | Course/Project |
