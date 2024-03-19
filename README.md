@@ -1,6 +1,5 @@
 # Gabriel Watson :computer:
-![Gabriel Watson sdsd sdsd sdsdsd sds](https://github.com/GabrielWatson1/GabrielWatson1/assets/97103827/ee3740fc-1fd5-4298-945c-91b66d889c1f)
-
+![Screenshot 2024-03-19 130537](https://github.com/GabrielWatson1/GabrielWatson1/assets/97103827/fc3a31c8-610a-4e2a-9492-41e82705f263)
 
 
 ## Data Platform Specialist at Pagesplit Solutions AB | Data Science Graduate
